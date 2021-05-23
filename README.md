@@ -3,7 +3,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 
 
-![Resim](img\Screen1.jpg)
+![Resim](img/Screen1.jpg)
 
 ## Installation
 ---
